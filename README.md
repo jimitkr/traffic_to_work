@@ -5,4 +5,4 @@
 <li style="background: white;">AWS Lambda, SNS, Python, CloudWatch Events</li>
 </ul>
 <p style="background: white; box-sizing: border-box; margin: 0in 0in 12.0pt 0in;"><strong style="box-sizing: border-box;"><span style="font-family: 'Segoe UI',sans-serif; color: #24292e;">What Does This Utility Do?</span></strong></p>
-<p style="background: white; margin: 0in 0in 12.0pt 0in;"><span style="font-family: verdana, geneva; color: #24292e;">Sends me a text message at 7 AM if ETA to work is &gt; 30 minutes. That way I can leave early if I need to</span></p>
+<p style="background: white; margin: 0in 0in 12.0pt 0in;"><span style="font-family: verdana, geneva; color: #24292e;">Notifies me at 7 AM if ETA to work is &gt; 30 minutes. That way I can leave early if I need to</span></p>
